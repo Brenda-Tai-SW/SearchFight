@@ -1,6 +1,7 @@
-Task: Searchfight
-In order to determine the popularity of people on the web, we would like you to
-write a program that can trigger people in different search engines and return
+Requirement : Searchfight
+
+In order to determine the popularity of people on the web, we need to 
+implement  a program that can trigger people in different search engines and return
 the amount of hits found.
 
 Example:
@@ -11,7 +12,7 @@ Google winner: .net
 MSN Search winner: java
 Total winner: .net
 Rules:
-? The program should be able to receive a variable number of search terms.
-? The program must support quotation marks so you can specify search terms
+? Our program should be able to receive a variable number of search terms.
+? Our program must support quotation marks so you can specify search terms
 containing spaces (java searchfight "bill gates" "larry ellison")
-? The program must support at least two different search engines.
+? our program must support at least two different search engines.
